@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Flutter Supabase Authentication App Banner" width="100%">
+  <img src="images/banner.png" alt="Flutter Supabase Authentication App Banner" width="100%">
 </p>
 
 <h1 align="center">🔐 Flutter Supabase Authentication App</h1>
@@ -83,8 +83,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  supabase_flutter:
-  font_awesome_flutter:
+  supabase_flutter: ^2.16.0
+  font_awesome_flutter: ^10.8.0
 ```
 
 ---
